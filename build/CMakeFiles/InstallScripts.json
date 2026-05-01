@@ -1,0 +1,33 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_boundary_tags/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_boundary_tags/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_buddies_system/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_buddies_system/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_global_heap/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_global_heap/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_red_black_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_red_black_tree/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_sorted_list/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_sorted_list/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_plus_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_plus_tree/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_plus_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_plus_tree/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_tree/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_tree/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_tree/tests/cmake_install.cmake",
+		"C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/common/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

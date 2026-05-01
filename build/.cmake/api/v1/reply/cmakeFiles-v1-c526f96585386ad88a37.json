@@ -1,0 +1,606 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/Boost-1.86.0/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/Boost-1.86.0/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_headers-1.86.0/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_headers-1.86.0/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_headers-1.86.0/boost_headers-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_system-1.86.0/boost_system-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_system-1.86.0/boost_system-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_assert-1.86.0/boost_assert-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_assert-1.86.0/boost_assert-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_config-1.86.0/boost_config-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_config-1.86.0/boost_config-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_config-1.86.0/boost_config-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_assert-1.86.0/boost_assert-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_throw_exception-1.86.0/boost_throw_exception-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_throw_exception-1.86.0/boost_throw_exception-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_throw_exception-1.86.0/boost_throw_exception-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_variant2-1.86.0/boost_variant2-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_variant2-1.86.0/boost_variant2-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_mp11-1.86.0/boost_mp11-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_mp11-1.86.0/boost_mp11-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_mp11-1.86.0/boost_mp11-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_variant2-1.86.0/boost_variant2-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_winapi-1.86.0/boost_winapi-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_winapi-1.86.0/boost_winapi-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_predef-1.86.0/boost_predef-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_predef-1.86.0/boost_predef-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_predef-1.86.0/boost_predef-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_winapi-1.86.0/boost_winapi-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_system-1.86.0/boost_system-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_container-1.86.0-shared/boost_container-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_container-1.86.0-shared/boost_container-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_intrusive-1.86.0/boost_intrusive-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_intrusive-1.86.0/boost_intrusive-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_move-1.86.0/boost_move-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_move-1.86.0/boost_move-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_move-1.86.0/boost_move-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_intrusive-1.86.0/boost_intrusive-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_container-1.86.0-shared/boost_container-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/msys64/ucrt64/lib/cmake/boost_container-1.86.0-shared/boost_container-targets-release.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googlemock/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googlemock/cmake/gmock.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googletest/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googletest/cmake/internal_utils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googletest/cmake/Config.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googletest/cmake/gtest.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/_deps/googletest-src/googletest/cmake/gtest_main.pc.in"
+		},
+		{
+			"path" : "allocator/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_boundary_tags/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_boundary_tags/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_buddies_system/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_buddies_system/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_global_heap/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_global_heap/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_red_black_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_red_black_tree/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_sorted_list/CMakeLists.txt"
+		},
+		{
+			"path" : "allocator/allocator_sorted_list/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_plus_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_plus_tree/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_star_plus_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_star_plus_tree/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_star_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_star_tree/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "associative_container/indexing_tree/b_tree/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "common/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build",
+		"source" : "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

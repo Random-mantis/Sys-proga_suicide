@@ -1,0 +1,164 @@
+[
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr.dir\\src\\allocator_test_utils.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator\\src\\allocator_test_utils.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator/src/allocator_test_utils.cpp",
+  "output": "allocator/allocator/CMakeFiles/sys_prog_allctr_allctr.dir/src/allocator_test_utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr.dir\\src\\allocator_dbg_helper.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator\\src\\allocator_dbg_helper.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator/src/allocator_dbg_helper.cpp",
+  "output": "allocator/allocator/CMakeFiles/sys_prog_allctr_allctr.dir/src/allocator_dbg_helper.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr.dir\\src\\pp_allocator.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator\\src\\pp_allocator.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator/src/pp_allocator.cpp",
+  "output": "allocator/allocator/CMakeFiles/sys_prog_allctr_allctr.dir/src/pp_allocator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_boundary_tags",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_bndr_tgs.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_bndr_tgs.dir\\src\\allocator_boundary_tags.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_boundary_tags\\src\\allocator_boundary_tags.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_boundary_tags/src/allocator_boundary_tags.cpp",
+  "output": "allocator/allocator_boundary_tags/CMakeFiles/sys_prog_allctr_allctr_bndr_tgs.dir/src/allocator_boundary_tags.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_boundary_tags/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_bndr_tgs_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_bndr_tgs_tests.dir\\allocator_boundary_tags_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_boundary_tags\\tests\\allocator_boundary_tags_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_boundary_tags/tests/allocator_boundary_tags_tests.cpp",
+  "output": "allocator/allocator_boundary_tags/tests/CMakeFiles/sys_prog_allctr_allctr_bndr_tgs_tests.dir/allocator_boundary_tags_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_buddies_system",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_bdds_sstm.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_bdds_sstm.dir\\src\\allocator_buddies_system.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_buddies_system\\src\\allocator_buddies_system.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_buddies_system/src/allocator_buddies_system.cpp",
+  "output": "allocator/allocator_buddies_system/CMakeFiles/sys_prog_allctr_allctr_bdds_sstm.dir/src/allocator_buddies_system.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_buddies_system/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_bdds_sstm_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_bdds_sstm_tests.dir\\allocator_buddies_system_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_buddies_system\\tests\\allocator_buddies_system_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_buddies_system/tests/allocator_buddies_system_tests.cpp",
+  "output": "allocator/allocator_buddies_system/tests/CMakeFiles/sys_prog_allctr_allctr_bdds_sstm_tests.dir/allocator_buddies_system_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_global_heap",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_glbl_hp.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_glbl_hp.dir\\src\\allocator_global_heap.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_global_heap\\src\\allocator_global_heap.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_global_heap/src/allocator_global_heap.cpp",
+  "output": "allocator/allocator_global_heap/CMakeFiles/sys_prog_allctr_allctr_glbl_hp.dir/src/allocator_global_heap.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_global_heap/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_glbl_hp_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_glbl_hp_tests.dir\\allocator_global_heap_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_global_heap\\tests\\allocator_global_heap_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_global_heap/tests/allocator_global_heap_tests.cpp",
+  "output": "allocator/allocator_global_heap/tests/CMakeFiles/sys_prog_allctr_allctr_glbl_hp_tests.dir/allocator_global_heap_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_red_black_tree",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_rb_tr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_rb_tr.dir\\src\\allocator_red_black_tree.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_red_black_tree\\src\\allocator_red_black_tree.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_red_black_tree/src/allocator_red_black_tree.cpp",
+  "output": "allocator/allocator_red_black_tree/CMakeFiles/sys_prog_allctr_allctr_rb_tr.dir/src/allocator_red_black_tree.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_red_black_tree/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_rb_tr_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_rb_tr_tests.dir\\allocator_red_black_tree_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_red_black_tree\\tests\\allocator_red_black_tree_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_red_black_tree/tests/allocator_red_black_tree_tests.cpp",
+  "output": "allocator/allocator_red_black_tree/tests/CMakeFiles/sys_prog_allctr_allctr_rb_tr_tests.dir/allocator_red_black_tree_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_sorted_list",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_srtd_lst.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_srtd_lst.dir\\src\\allocator_sorted_list.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_sorted_list\\src\\allocator_sorted_list.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_sorted_list/src/allocator_sorted_list.cpp",
+  "output": "allocator/allocator_sorted_list/CMakeFiles/sys_prog_allctr_allctr_srtd_lst.dir/src/allocator_sorted_list.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/allocator/allocator_sorted_list/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_allctr_allctr_srtd_lst_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_allctr_allctr_srtd_lst_tests.dir\\allocator_sorted_list_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\allocator\\allocator_sorted_list\\tests\\allocator_sorted_list_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/allocator/allocator_sorted_list/tests/allocator_sorted_list_tests.cpp",
+  "output": "allocator/allocator_sorted_list/tests/CMakeFiles/sys_prog_allctr_allctr_srtd_lst_tests.dir/allocator_sorted_list_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr.dir\\src\\hhh.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\src\\hhh.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/src/hhh.cpp",
+  "output": "associative_container/CMakeFiles/sys_prog_assctv_cntnr.dir/src/hhh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_plus_tree",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_pls_tr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_pls_tr.dir\\src\\hhh.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_plus_tree\\src\\hhh.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_plus_tree/src/hhh.cpp",
+  "output": "associative_container/indexing_tree/b_plus_tree/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_pls_tr.dir/src/hhh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_plus_tree/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_pls_tr_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_pls_tr_tests.dir\\b_plus_tree_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_plus_tree\\tests\\b_plus_tree_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_plus_tree/tests/b_plus_tree_tests.cpp",
+  "output": "associative_container/indexing_tree/b_plus_tree/tests/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_pls_tr_tests.dir/b_plus_tree_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_plus_tree",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr.dir\\src\\hhh.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_star_plus_tree\\src\\hhh.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_star_plus_tree/src/hhh.cpp",
+  "output": "associative_container/indexing_tree/b_star_plus_tree/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr.dir/src/hhh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_plus_tree/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr_tests.dir\\b_star_plus_tree_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_star_plus_tree\\tests\\b_star_plus_tree_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_star_plus_tree/tests/b_star_plus_tree_tests.cpp",
+  "output": "associative_container/indexing_tree/b_star_plus_tree/tests/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_pls_tr_tests.dir/b_star_plus_tree_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_tree",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_tr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_str_tr.dir\\src\\hhh.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_star_tree\\src\\hhh.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_star_tree/src/hhh.cpp",
+  "output": "associative_container/indexing_tree/b_star_tree/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_tr.dir/src/hhh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_star_tree/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_tr_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_str_tr_tests.dir\\b_star_tree_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_star_tree\\tests\\b_star_tree_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_star_tree/tests/b_star_tree_tests.cpp",
+  "output": "associative_container/indexing_tree/b_star_tree/tests/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_str_tr_tests.dir/b_star_tree_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_tree",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_tr.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_tr.dir\\src\\hhh.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_tree\\src\\hhh.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_tree/src/hhh.cpp",
+  "output": "associative_container/indexing_tree/b_tree/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_tr.dir/src/hhh.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/associative_container/indexing_tree/b_tree/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_tr_tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_assctv_cntnr_indxng_tr_b_tr_tests.dir\\b_tree_tests.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\associative_container\\indexing_tree\\b_tree\\tests\\b_tree_tests.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/associative_container/indexing_tree/b_tree/tests/b_tree_tests.cpp",
+  "output": "associative_container/indexing_tree/b_tree/tests/CMakeFiles/sys_prog_assctv_cntnr_indxng_tr_b_tr_tests.dir/b_tree_tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/build/common",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/sys_prog_cmmn.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\sys_prog_cmmn.dir\\src\\not_implemented.cpp.obj -c C:\\Users\\Kostya\\Desktop\\sys_prog\\Sys-proga_suicide\\common\\src\\not_implemented.cpp",
+  "file": "C:/Users/Kostya/Desktop/sys_prog/Sys-proga_suicide/common/src/not_implemented.cpp",
+  "output": "common/CMakeFiles/sys_prog_cmmn.dir/src/not_implemented.cpp.obj"
+}
+]
